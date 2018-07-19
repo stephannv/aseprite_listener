@@ -8,7 +8,7 @@ Listen changes on .ase/.aseprite files in specific folder and export .png and .j
 
 Download aseprite_listener or clone:
 ```
-git clone git://stephanngamedev@github.com/aseprite_listener
+git clone git@github.com:stephanngamedev/aseprite_listener.git
 ```
 
 Go to aseprite_listener's folder and install dependencies:
